@@ -23,7 +23,7 @@ You can install the package using pip:
 pip install openpyxl
 ```
 
-# Installation
+## Installation
 
 1. Clone this repository:
 
@@ -39,7 +39,7 @@ git clone https://github.com/Sudhanshu611/Money-Management-System-using-Ms-Excel
 pip3 install openpyxl
 ```
 
-# Usage
+## Usage
 
 1. Run the main.py file to start the program:
 
@@ -53,7 +53,7 @@ python main.py
 
 4. You can view your financial summary anytime.
 
-# File Structure
+## File Structure
 
 ```bash
 .
@@ -62,18 +62,18 @@ python main.py
 └── INSTRUCTION.md      # INSTRUCTION for the project
 ```
 
-# How It Works
+## How It Works
 
 1. The system prompts the user to enter income or expense amounts and assigns them to specific categories.
 2. Data is stored in an Excel file (finances.xlsx), which is managed using the openpyxl library.
 3. The program keeps a running balance of total income and expenses and allows you to view summaries.
 
-# Future Improvements
+## Future Improvements
 
 1. Add data visualization (graphs and charts) to analyze spending habits.
 2. Implement a budgeting feature to set limits on specific categories.
 3. Create a user authentication system for multiple users.
 
-# Contributing
+## Contributing
 
 If you'd like to contribute, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you'd like to change.
